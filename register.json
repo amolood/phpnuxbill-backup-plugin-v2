@@ -1,0 +1,11 @@
+{
+        "dir": "Backup",
+        "name": "Backup Plugin",
+        "version": "1.0",
+        "author": "focuslinkstech",
+        "author_url": "https:\/\/github.com\/amolood",
+        "description": "This is a simple plugin to show the data usage of the users",
+        "plugin_url": "https://github.com/amolood/phpnuxbill-backup-plugin-v2",
+        "last_update": "2021-09-01",
+        "latest_version": "1.0"
+}
